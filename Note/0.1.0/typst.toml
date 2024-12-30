@@ -1,4 +1,4 @@
 [package]
-name = "BasicTemplate"
+name = "Note"
 version = "0.1.0"
 entrypoint = "template.typ"

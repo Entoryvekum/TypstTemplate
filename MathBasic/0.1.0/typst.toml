@@ -1,4 +1,0 @@
-[package]
-name = "MathBasic"
-version = "0.1.0"
-entrypoint = "template.typ"
